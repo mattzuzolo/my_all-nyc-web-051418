@@ -20,5 +20,3 @@ binding.pry
 
   #binding.pry
 end
-
-my_all?(collection) { |thing| thing)
