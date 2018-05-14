@@ -10,7 +10,7 @@ def my_all?(collection)
       i += 1
   end
   
-  if 
+  
 
   #binding.pry
 end
