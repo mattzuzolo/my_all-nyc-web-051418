@@ -10,5 +10,5 @@ def my_all?(collection)
       i += 1
   end
 
-  binding.pry
+  #binding.pry
 end
