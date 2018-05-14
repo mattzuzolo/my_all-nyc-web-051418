@@ -13,4 +13,4 @@ def my_all?(collection)
   #binding.pry
 end
 
-my_all?(collection) { |i| i)
+my_all?(collection) { |thing| thing)
