@@ -1,6 +1,6 @@
 require 'pry'
 
-def my_all?(collection)
+def my_all?(collection) {
 
   i = 0
 
