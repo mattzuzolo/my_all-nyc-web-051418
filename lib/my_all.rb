@@ -8,10 +8,11 @@ def my_all?(collection)
   while i < collection.length
   
       yield(collection[i])
+      block_return_values << 
       i += 1
   end
   
-  
+  if block_return_values 
 
   #binding.pry
 end
