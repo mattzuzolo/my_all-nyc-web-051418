@@ -1,6 +1,6 @@
 require 'pry'
 
-def my_all?(collection) {
+def my_all?(collection)
 
   i = 0
 
@@ -12,3 +12,5 @@ def my_all?(collection) {
 
   #binding.pry
 end
+
+my_all?(collection) { |i| i)
